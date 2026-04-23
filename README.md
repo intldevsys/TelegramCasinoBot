@@ -5,7 +5,7 @@
 
 ### A Telegram bot with casino game mechanics & crypto integration. 
 > Intended to showcase the general architecture and game logic without providing explicit implementation instructions. This demonstration is intended for educational purposes only. It is in no way intended to promote or facilitate gambling platforms or services.
- This is a redacted summary, please contact for further details about the complete project.
+ This is a redacted summary, please contact for further details about the complete project. Telegram -  @gdsys_shop
 
 
 ## Example Data Flow
